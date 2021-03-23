@@ -1,6 +1,6 @@
 # httpsocks
 
-A fast HTTP-to-SOCKS reverse proxy
+A fast HTTP-via-SOCKS reverse proxy
 
 ```
 Usage of httpsocks:
